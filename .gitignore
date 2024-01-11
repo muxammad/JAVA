@@ -396,3 +396,47 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# VS Code settings
+.vscode/
+
+# Maven specific
+target/
+
+# Eclipse specific
+.classpath
+.project
+.settings/
+
+# IntelliJ specific
+.idea/
+
+# Build directories
+bin/
+out/
+build/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Dependency directories
+lib/
+libs/
+
+# User-specific files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
