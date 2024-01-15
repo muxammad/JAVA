@@ -2,12 +2,20 @@
 
 public class Constructor {
 
+
+    final int must = 23;
+
+    final int mux;{
+        mux = 20;
+    }
+
+
     String name;
     int age;
     String email;
     String phoneNumber;
 
-    static int i;{
+   public static int i;{
         i = 5;
     }
 
